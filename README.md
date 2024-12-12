@@ -30,3 +30,9 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/rohit00-07/House-Price-Prediction.git
 cd House-Price-Prediction
+2. **Install Required Libraries**:
+   ```bash
+   pip install -r requirements.txt
+2. **Run the Application**:
+   ```bash
+   python app.py
